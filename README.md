@@ -4,12 +4,12 @@ Esse projeto tem como objetivo dinamizar, facilitar e auxiliar os serviços de v
 
 # Equipe:
 
-| Antony Gabriel | https://github.com/TxonyB | <br>
-| Alison Mikayon | https://github.com/AlisonMika | <br>
-| Bruno Freitas | https://github.com/brunofreitasbf | <br>
-| Lucas Dantas | https://github.com/numb0y | <br> 
-| Marcus Vinicius | https://github.com/ViniciusDeMorais46290 | <br>
-| Wagner Gomes | https://github.com/Sete777 | <br>
+| Antony Gabriel | https://github.com/TxonyB | <br> |
+| Alison Mikayon | https://github.com/AlisonMika | <br> |
+| Bruno Freitas | https://github.com/brunofreitasbf | <br> |
+| Lucas Dantas | https://github.com/numb0y | <br>  |
+| Marcus Vinicius | https://github.com/ViniciusDeMorais46290 | <br> |
+| Wagner Gomes | https://github.com/Sete777 | <br>  |
 
 # COMO BAIXAR/EXECUTAR
 
