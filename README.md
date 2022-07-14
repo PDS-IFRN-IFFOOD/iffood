@@ -11,5 +11,8 @@ Esse projeto tem como objetivo dinamizar, facilitar e auxiliar os serviços de v
 | Marcus Vinicius | https://github.com/ViniciusDeMorais46290 | <br>
 | Alison Mikayon | https://github.com/AlisonMika | <br>
 
+# COMO BAIXAR/EXECUTAR
+
+O projeto inicialmente será executável via internet através de um site responsivo, a intenção é ser um aplicativo disponível em todas as lojas digitais.
 
 
