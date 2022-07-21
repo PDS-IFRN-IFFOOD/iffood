@@ -5,7 +5,7 @@ Esse projeto tem como objetivo dinamizar, facilitar e auxiliar os serviços de v
 # Equipe:
 
 | Nome | Email | <br> 
-| ----------- | ----------- |
+| ----------- | ----------- | <br>
 | Antony Gabriel | https://github.com/TxonyB | <br>
 | Alison Mikayon | https://github.com/AlisonMika  <br> 
 | Bruno Freitas | https://github.com/brunofreitasbf | <br> 
