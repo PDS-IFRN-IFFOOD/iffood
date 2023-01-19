@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "createdb": "node dbcreatedatabase.js",
+    "createtable": "node dbcreatetable.js",
+    "createproduct": "node dbcreateproduct.js"
   },
   "keywords": [],
   "author": "",
